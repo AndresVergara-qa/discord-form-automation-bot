@@ -73,8 +73,9 @@ PORT=3000
 TOKEN=your_discord_bot_token
 SHEET_ID=your_google_sheet_id
 GOOGLE_CRED={"type":"service_account", ...}
-Start the bot:
 
+
+Start the bot:
 Bash
 npm start
 
