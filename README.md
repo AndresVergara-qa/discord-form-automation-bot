@@ -50,7 +50,9 @@ Automated Sheet Sync: Submitted data is appended seamlessly to the targeted Goog
 
 <img width="1186" height="667" alt="image" src="https://github.com/user-attachments/assets/5321e82b-9dc8-463f-a8cd-72186a9a43eb" />
 
-🚀 How to Run Locally
+
+
+## 🚀 How to Run Locally
 Clone the repository:
 
 Bash
