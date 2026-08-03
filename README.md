@@ -56,12 +56,15 @@ Clone the repository:
 Bash
 git clone [https://github.com/AndresVergara-qa/discord-form-automation-bot.git](https://github.com/AndresVergara-qa/discord-form-automation-bot.git)
 cd discord-form-automation-bot
+
+
 Install dependencies:
 
 Bash
 npm install
 Configure Environment Variables:
 Create a .env file in the root directory:
+
 
 Fragmento de código
 PORT=3000
