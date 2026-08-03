@@ -1,4 +1,4 @@
-# 🤖 Discord QA Automation & Task Logger Bot
+# Discord QA Automation & Task Logger Bot
 
 An automated Discord integration built with **Node.js**, **Express**, and **Google Sheets API**. Designed to streamline QA workflows, track testing hours, and automatically log structured task reports from Discord directly into Google Sheets using interactive UI Modals.
 
@@ -24,7 +24,7 @@ An automated Discord integration built with **Node.js**, **Express**, and **Goog
 
 ---
 
-## 🔒 Security & Architecture
+## Security & Architecture
 
 This repository strictly enforces security best practices:
 * `.gitignore` prevents exposure of sensitive credentials (`.env`, `node_modules`).
